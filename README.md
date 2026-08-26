@@ -9,12 +9,14 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Maneeshrajput90/Leetcode/tree/master/0062-unique-paths) |
+| [0486-predict-the-winner](https://github.com/Maneeshrajput90/Leetcode/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Maneeshrajput90/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0931-minimum-falling-path-sum](https://github.com/Maneeshrajput90/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Maneeshrajput90/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Maneeshrajput90/Leetcode/tree/master/0486-predict-the-winner) |
 | [0931-minimum-falling-path-sum](https://github.com/Maneeshrajput90/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Maneeshrajput90/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
 ## Matrix
@@ -26,8 +28,25 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Maneeshrajput90/Leetcode/tree/master/0062-unique-paths) |
+| [0486-predict-the-winner](https://github.com/Maneeshrajput90/Leetcode/tree/master/0486-predict-the-winner) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Maneeshrajput90/Leetcode/tree/master/0062-unique-paths) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Maneeshrajput90/Leetcode/tree/master/0486-predict-the-winner) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Maneeshrajput90/Leetcode/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Maneeshrajput90/Leetcode/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Maneeshrajput90/Leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
