@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/Maneeshrajput90/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0647-palindromic-substrings](https://github.com/Maneeshrajput90/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/Maneeshrajput90/Leetcode/tree/master/0763-partition-labels) |
 ## Dynamic Programming
 |  |
@@ -13,6 +14,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Maneeshrajput90/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0486-predict-the-winner](https://github.com/Maneeshrajput90/Leetcode/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/Maneeshrajput90/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0647-palindromic-substrings](https://github.com/Maneeshrajput90/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0740-delete-and-earn](https://github.com/Maneeshrajput90/Leetcode/tree/master/0740-delete-and-earn) |
 | [0931-minimum-falling-path-sum](https://github.com/Maneeshrajput90/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Maneeshrajput90/Leetcode/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -62,6 +64,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/Maneeshrajput90/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/Maneeshrajput90/Leetcode/tree/master/0763-partition-labels) |
 ## Greedy
 |  |
